@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[313],{8313:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("router-view")},r=[],c={name:"home",data:function(){}},a=c,l=u(1001),f=(0,l.Z)(a,t,r,!1,null,"105c705c",null),s=f.exports}}]);
+//# sourceMappingURL=313-legacy.af802d6c.js.map
